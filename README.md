@@ -7,12 +7,16 @@ The goal of the Bikeshare project is to use Python to explore data related to bi
 
 ## Information about how to use your project
 
-This could include:
+### Prerequisites
+- You will need **Python 3.x** installed.
+- **Pandas** and **NumPy** libraries are required. Install them via:
+  `pip install pandas numpy`
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+### How to Run
+1. Ensure the following files are in the same folder: `bikeshare.py`, `chicago.csv`, `new_york_city.csv`, and `washington.csv`.
+2. Open your terminal or command prompt.
+3. Navigate to the project folder and run: `python bikeshare.py`
+4. Follow the interactive prompts to filter data by city, month, and day.
 
 ## Contribution guidelines
 
