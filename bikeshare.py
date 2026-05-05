@@ -52,6 +52,8 @@ def time_stats(df):
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
+    # Refactor: Convert 'Start Time' to datetime once to be used by all stats below
+    df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # display the most common month
 
