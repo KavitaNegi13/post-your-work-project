@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems. It includes one Python file and one or more .csv data files.
 
 ## Information about how to use your project
 
